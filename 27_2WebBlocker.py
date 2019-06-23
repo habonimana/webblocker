@@ -4,7 +4,6 @@ from datetime import datetime as dt
 # windows has a host file
 # a host file store information of IP address and web link of website 
 # we want to bloc
-# the host file is located: C:\Windows\System32\drivers\etc
 host_temp = "hosts"
 host_path= "C:\Windows\System32\drivers\etc\hosts"
 redirect = "127.0.0.1"
